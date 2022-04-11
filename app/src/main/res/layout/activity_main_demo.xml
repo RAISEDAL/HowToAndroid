@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activitydemo.MainActivityDemo">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:ignore="MissingConstraints">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp"
+            android:scrollbars="vertical"
+            android:verticalScrollbarPosition="defaultPosition"
+            tools:ignore="MissingConstraints">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:text="CSCI 3130 Cookbook"
+                android:textSize="16dp"></TextView>
+
+            <Button
+                android:id="@+id/pressButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Press Me"
+                android:textSize="16dp"></Button>
+
+            <Button
+                android:id="@+id/broadcastRecButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Broadcast Receiver"
+                android:textSize="16dp"></Button>
+
+            <Button
+                android:id="@+id/serviceButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Background Service"
+                android:textSize="16dp"></Button>
+
+            <Button
+                android:id="@+id/dragNDropButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Drag n Drop"
+                android:textSize="16dp"></Button>
+
+            <Button
+                android:id="@+id/fragmentButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Fragment"
+                android:textSize="16dp"></Button>
+
+            <Button
+                android:id="@+id/intentButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Intent"
+                android:textSize="16dp"></Button>
+
+            <Button
+                android:id="@+id/locationButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Geo Location"
+                android:textSize="16dp"></Button>
+
+            <Button
+                android:id="@+id/gmapButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Google Map"
+                android:textSize="16dp"></Button>
+
+            <Button
+                android:id="@+id/recyclerButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Recycler + Google Map"
+                android:textSize="16dp"></Button>
+
+            <Button
+                android:id="@+id/notificationButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Notification"
+                android:textSize="16dp"></Button>
+
+            <Button
+                android:id="@+id/fbGraphAPI"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Facebook Graph API"
+                android:textSize="16dp"></Button>
+
+            <Button
+                android:id="@+id/rating"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rating"
+                android:textSize="16dp"></Button>
+
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

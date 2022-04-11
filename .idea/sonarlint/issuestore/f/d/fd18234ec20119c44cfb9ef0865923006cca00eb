@@ -1,0 +1,12 @@
+
+t
+java:S1450"WRemove the "receiver" field and declare it as a local variable in the relevant methods.(”áØş8®„§¸/
+J
+java:S1604"(Make this anonymous inner class a lambda(ÊôÚÅÿÿÿÿÿ8®ïÈ®·/
+z
+java:S3008"XRename this field "CUSTOM_INTENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ìÑÀùÿÿÿÿ8À­ú®·/
+P	java:S110"<This class has 9 parents which is greater than 5 authorized.(ıÏK
+{
+java:S1104"YMake CUSTOM_INTENT a static final constant or non-public and provide accessors if needed.(÷ìÑÀùÿÿÿÿ8À­ú®·/
+U
+java:S1444"3Make this "public static CUSTOM_INTENT" field final(÷ìÑÀùÿÿÿÿ8À­ú®·/

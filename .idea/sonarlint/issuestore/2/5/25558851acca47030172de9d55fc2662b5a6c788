@@ -1,0 +1,19 @@
+
+J
+java:S1604$"(Make this anonymous inner class a lambda(¥Ô¯†øÿÿÿÿ8„›ë¨·/
+}
+java:S1104"[Make WELCOME_MESSAGE a static final constant or non-public and provide accessors if needed.(§ÄÍŞùÿÿÿÿ8´‰ §·/
+M
+java:S1172,"+Remove this unused method parameter "view".(“„Æ÷ùÿÿÿÿ8ËËò¦·/
+W
+java:S1444"5Make this "public static WELCOME_MESSAGE" field final(§ÄÍŞùÿÿÿÿ8´‰ §·/
+J
+java:S1604"(Make this anonymous inner class a lambda(°Øşÿÿÿÿ8ÀÍó¨·/
+M
+java:S11727"+Remove this unused method parameter "view".(‚Á”¨úÿÿÿÿ8¹Šú¦·/
+V	java:S110
+"<This class has 9 parents which is greater than 5 authorized.(€›ï ıÿÿÿÿ
+J
+java:S1604"(Make this anonymous inner class a lambda(ê’æ¹şÿÿÿÿ8‰øè¨·/
+|
+java:S3008"ZRename this field "WELCOME_MESSAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÄÍŞùÿÿÿÿ8´‰ §·/

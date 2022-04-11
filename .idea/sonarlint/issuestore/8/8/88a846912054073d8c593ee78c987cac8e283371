@@ -1,0 +1,38 @@
+
+u
+java:S1104"SMake MESSAGE a static final constant or non-public and provide accessors if needed.(¾Ëæùÿÿÿÿ8åÎ×¸/
+U
+java:S1874D"8Remove this use of "PRIORITY_DEFAULT"; it is deprecated.(ğóò8‡ŒÔ×¸/
+=
+java:S2129\" Remove this "String" constructor(É„½8ãÌØ¸/
+B
+java:S2129]" Remove this "String" constructor(Ç¢„ÿÿÿÿÿ8ãÌØ¸/
+B
+java:S2129Y" Remove this "String" constructor(Ä´èåúÿÿÿÿ8¸’ÄØ¸/
+P
+java:S1874U"3Remove this use of "setPriority"; it is deprecated.(ğóò8ÙÔ¹Ø¸/
+P
+java:S1874D"3Remove this use of "setPriority"; it is deprecated.(ğóò8‡ŒÔ×¸/
+J
+java:S1604""(Make this anonymous inner class a lambda(—İüğøÿÿÿÿ8ÆÓÊĞ¸/
+U
+java:S18745"8Remove this use of "PRIORITY_DEFAULT"; it is deprecated.(ğóò8‡ŒÔ×¸/
+P
+java:S18745"3Remove this use of "setPriority"; it is deprecated.(ğóò8‡ŒÔ×¸/
+U
+java:S1874U"8Remove this use of "PRIORITY_DEFAULT"; it is deprecated.(ğóò8ÙÔ¹Ø¸/
+]	java:S125&"<This block of commented-out lines of code should be removed.(ˆıÅ­ÿÿÿÿÿ8ó§“×¸/
+]	java:S110"<This class has 9 parents which is greater than 5 authorized.(òÅ²¼øÿÿÿÿ8ÆÓÊĞ¸/
+O
+java:S1444"-Make this "public static MESSAGE" field final(¾Ëæùÿÿÿÿ8åÎ×¸/
+t
+java:S3008"RRename this field "MESSAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Ëæùÿÿÿÿ8åÎ×¸/
+=
+java:S2129Z" Remove this "String" constructor(ÈŸ€Œ8ÂÊÈØ¸/
+=
+java:S2129^" Remove this "String" constructor(ŠÒ±Ç8ãÌØ¸/
+X	java:S125g"<This block of commented-out lines of code should be removed.(šƒğó8ğ¦ˆè¸/
+Y
+java:S1128"7Remove this unused import 'android.widget.RemoteViews'.(…°âğüÿÿÿÿ8ßúÒÑ¸/
+B
+java:S2129[" Remove this "String" constructor(—¢¬İúÿÿÿÿ8ÂÊÈØ¸/
