@@ -1,22 +1,22 @@
 
-E
-java:S1604"(Make this anonymous inner class a lambda(½‚·8ÒÔÖı¸/
 J
 java:S1604Q"(Make this anonymous inner class a lambda(ÅÙÇèşÿÿÿÿ8ÜË€¹/
-N
-java:S1874X"1Remove this use of "startDrag"; it is deprecated.(‘–†™8¶éš€¹/
-\
-java:S1854=":Remove this useless assignment to local variable "y_cord".(ê¼¿öıÿÿÿÿ8õœ‹ÿ¸/
+S
+java:S1874""1Remove this use of "startDrag"; it is deprecated.(£æüÛşÿÿÿÿ8Æ–¬ş¸/
 m	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÇÜ­8‡µûş¸/
+E
+java:S1604'"(Make this anonymous inner class a lambda(ƒ§â¨8½Â¶ş¸/
 V	java:S110"<This class has 9 parents which is greater than 5 authorized.(ŠÜ¿¡øÿÿÿÿ
-W
-java:S18541":Remove this useless assignment to local variable "y_cord".(¸ÇÜ­8‡µûş¸/
 \
 java:S18540":Remove this useless assignment to local variable "x_cord".(üƒ›Óûÿÿÿÿ8Ãêùş¸/
 E
-java:S1604'"(Make this anonymous inner class a lambda(ƒ§â¨8½Â¶ş¸/
+java:S1604"(Make this anonymous inner class a lambda(½‚·8ÒÔÖı¸/
+N
+java:S1874X"1Remove this use of "startDrag"; it is deprecated.(‘–†™8¶éš€¹/
+r	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üƒ›Óûÿÿÿÿ8Ãêùş¸/
+W
+java:S18541":Remove this useless assignment to local variable "y_cord".(¸ÇÜ­8‡µûş¸/
+\
+java:S1854=":Remove this useless assignment to local variable "y_cord".(ê¼¿öıÿÿÿÿ8õœ‹ÿ¸/
 W
 java:S1854<":Remove this useless assignment to local variable "x_cord".(ïÄÕğ8æ Šÿ¸/
-S
-java:S1874""1Remove this use of "startDrag"; it is deprecated.(£æüÛşÿÿÿÿ8Æ–¬ş¸/
-r	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üƒ›Óûÿÿÿÿ8Ãêùş¸/

@@ -1,0 +1,18 @@
+
+W	java:S110"<This class has 9 parents which is greater than 5 authorized.(ç²¥8„çï³0
+D
+java:S1604>"(Make this anonymous inner class a lambda(ÛÕ±38»¡ö³0
+\
+java:S1854!"?Remove this useless assignment to local variable "loginButton".(·î•Í8„çï³0
+a
+java:S1117="?Rename "accessToken" which hides the field declared at line 25.(²ãÚåşÿÿÿÿ8ğ‘ ´0
+M
+java:S1481!"0Remove this unused "loginButton" local variable.(·î•Í8„çï³0
+
+java:S1186."€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‘şá8„çï³0
+m
+java:S2259B"KA "NullPointerException" could be thrown; "graphResponse" is nullable here.(€‰‹ªúÿÿÿÿ8©°åµ0
+J
+java:S16044"(Make this anonymous inner class a lambda(Å·ÀÉùÿÿÿÿ8‡í€´0
+
+java:S1186*"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹ö›n8„çï³0

@@ -39,3 +39,15 @@ z
 Japp/src/test/java/ca/dal/cs/csci3130/android_advanced/ExampleUnitTest.java,c\0\c03f0b15a949b3dcb226844286fa2aa2f254e842
 <
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
+…
+Uapp/src/main/java/ca/dal/cs/csci3130/android_advanced/recycler/MyRecyclerAdapter.java,8\e\8e585ce1fe1410908caef0d0c4c8f731af9d3e52
+„
+Tapp/src/main/java/ca/dal/cs/csci3130/android_advanced/recycler/RecyclerActivity.java,9\5\95bad7ac655f579e02f7512ac3cb9823e547d23a
+ƒ
+Sapp/src/main/java/ca/dal/cs/csci3130/android_advanced/recycler/DetailsActivity.java,8\1\8138000400a38b0a060a1273c829b3a028478b02
+‡
+Wapp/src/main/java/ca/dal/cs/csci3130/android_advanced/googlemap/GoogleMapsActivity.java,c\4\c40f153ccbe76d5451a24e67bb417cb1973d31f4
+€
+Papp/src/main/java/ca/dal/cs/csci3130/android_advanced/rating/RatingActivity.java,b\d\bd982b2da0f9ebe57382d8de81d4fe07dd383962
+„
+Tapp/src/main/java/ca/dal/cs/csci3130/android_advanced/facebook/FacebookActivity.java,8\4\8482d3c36461965b3c5d53672e2a1d2b9e392f5b

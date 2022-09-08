@@ -79,5 +79,6 @@ public class FacebookActivity extends AppCompatActivity {
         request.executeAsync();
     }
 
+    /*Ref: https://developers.facebook.com/docs/facebook-login/android*/
 
 }
