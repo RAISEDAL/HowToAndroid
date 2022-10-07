@@ -18,7 +18,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Androidadvanced">
-        <activity android:name=".rating.RatingActivity"></activity>
+        <activity
+            android:name=".activitydemo.MainActivitySecondDemo"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity android:name=".rating.RatingActivity" />
         <activity android:name=".facebook.FacebookActivity" />
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
@@ -37,7 +44,6 @@
         <meta-data
             android:name="com.facebook.sdk.ClientToken"
             android:value="@string/facebook_client_token" />
-
 
         <activity
             android:name=".googlemap.GoogleMapsActivity"
@@ -68,7 +74,9 @@
 
         <activity android:name=".servicedemo.MyServiceDemo" />
         <activity android:name=".breceiver.MyReceiverDemo" />
-        <activity android:name=".activitydemo.MainActivityDemo">
+        <activity
+            android:name=".activitydemo.MainActivityDemo"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

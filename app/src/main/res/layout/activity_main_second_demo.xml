@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".activitydemo.MainActivityDemo">
+    tools:context=".activitydemo.MainActivitySecondDemo">
 
     <ScrollView
         android:layout_width="wrap_content"
@@ -28,59 +28,45 @@
                 android:textSize="16dp"></TextView>
 
             <Button
-                android:id="@+id/pressButton"
+                android:id="@+id/gmapButton"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Press Me"
+                android:text="Google Map"
                 android:textSize="16dp"></Button>
 
             <Button
-                android:id="@+id/broadcastRecButton"
+                android:id="@+id/recyclerButton"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Broadcast Receiver"
+                android:text="Recycler + Google Map"
                 android:textSize="16dp"></Button>
 
             <Button
-                android:id="@+id/serviceButton"
+                android:id="@+id/notificationButton"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Background Service"
+                android:text="Notification"
                 android:textSize="16dp"></Button>
 
             <Button
-                android:id="@+id/dragNDropButton"
+                android:id="@+id/fbGraphAPI"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Drag n Drop"
+                android:text="Facebook Graph API"
                 android:textSize="16dp"></Button>
 
             <Button
-                android:id="@+id/fragmentButton"
+                android:id="@+id/rating"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Fragment"
+                android:text="Rating"
                 android:textSize="16dp"></Button>
 
             <Button
-                android:id="@+id/intentButton"
+                android:id="@+id/homeButton"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Intent"
-                android:textSize="16dp"></Button>
-
-            <Button
-                android:id="@+id/locationButton"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Geo Location"
-                android:textSize="16dp"></Button>
-
-            <Button
-                android:id="@+id/nextButton"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Next Page"
+                android:text="First Page"
                 android:textSize="16dp"></Button>
 
         </LinearLayout>

@@ -3,15 +3,16 @@ plugins {
 }
 
 android {
-    compileSdkVersion 30
+    compileSdkVersion 32
     buildToolsVersion "30.0.3"
 
     defaultConfig {
         applicationId "ca.dal.cs.csci3130.android_advanced"
         minSdkVersion 16
-        targetSdkVersion 30
+        targetSdkVersion 32
         versionCode 1
         versionName "1.0"
+        multiDexEnabled true
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -57,5 +58,7 @@ dependencies {
 
     /*facebook*/
     implementation 'com.facebook.android:facebook-android-sdk:latest.release'
+
+    implementation 'com.android.support:multidex:1.0.3'
 
 }

@@ -79,7 +79,10 @@ public class NotificationDemoActivity extends AppCompatActivity {
     }
 
     protected void addNotificationWithCallback() {
-        Notification.Builder builder = new Notification.Builder(this, channelID);
+        Notification.Builder builder = null;
+        if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.O) {
+            builder = new Notification.Builder(this, channelID);
+        }
         builder.setSmallIcon(R.drawable.information);
         builder.setContentTitle("Bed time!");
         builder.setContentText("Must go to bed at 2:00 AM");
